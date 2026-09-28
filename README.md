@@ -22,3 +22,12 @@ Takes employee details, validates each answer, and prints an ID card with a uniq
 
 **What I practiced:** functions, `input()`, conditionals, string methods, slicing, f-strings.
 
+
+### Movie Ticket Booking Calculator (`movie_ticket_booking_calculator.py`)
+Calculates the final price of a movie ticket. It checks age and show time eligibility, then adds weekend and service charges and subtracts the member discount.
+
+**How to run:**
+
+    python movie_ticket_booking_calculator.py
+
+**What I practiced:** functions, `input()`, `if / elif / else`, `and / or`, f-strings.
