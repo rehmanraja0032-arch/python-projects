@@ -12,3 +12,13 @@ Splits a restaurant bill, including tip, equally between friends.
 
 **What I practiced:** functions, `input()`, conditionals, f-strings.
 
+
+### Employee Profile Generator (`employee_profile_generator.py`)
+Takes employee details, validates each answer, and prints an ID card with a unique employee code (like `DEV-2026-JD-001`).
+
+**How to run:**
+
+    python employee_profile_generator.py
+
+**What I practiced:** functions, `input()`, conditionals, string methods, slicing, f-strings.
+
