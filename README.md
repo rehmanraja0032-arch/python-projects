@@ -31,3 +31,14 @@ Calculates the final price of a movie ticket. It checks age and show time eligib
     python movie_ticket_booking_calculator.py
 
 **What I practiced:** functions, `input()`, `if / elif / else`, `and / or`, f-strings.
+
+
+
+### Caesar Cipher (`a_caesar_cipher.py`)
+Encrypts and decrypts messages by shifting each letter by 1 to 25 places. Keeps uppercase and lowercase letters and leaves spaces and punctuation unchanged.
+
+**How to run:**
+
+    python a_caesar_cipher.py
+
+**What I practiced:** functions, default parameters, `str.maketrans()`, `str.translate()`, conditionals.
