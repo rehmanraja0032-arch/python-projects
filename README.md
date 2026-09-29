@@ -42,3 +42,13 @@ Encrypts and decrypts messages by shifting each letter by 1 to 25 places. Keeps 
     python a_caesar_cipher.py
 
 **What I practiced:** functions, default parameters, `str.maketrans()`, `str.translate()`, conditionals.
+
+
+### RPG Character Creator (`name_and_stats_of_a_rpg_character_generator.py`)
+Creates a character with Strength, Intelligence and Charisma stats (1-10 each) and shows each stat as a dot bar.
+
+**How to run:**
+
+    python name_and_stats_of_a_rpg_character_generator.py
+
+**What I practiced:** functions, `input()`, `isinstance()`, type checking, conditionals, string repetition, f-strings.
